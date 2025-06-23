@@ -54,6 +54,27 @@ are involved in.
 </tr>
 <tr>
   <td style="padding: 15px; vertical-align: top">
+    <img src="/assets/wishbone_logo.png" width="120px">
+  </td>
+  <td>
+    <p><b><a href="https://fossi-foundation.github.io/wishbone-spec/">Wishbone Specification</a></b> is a simple, flexible interface for on-chip interconnect between different logic blocks.</p>
+    <p>It helps ensure compatibility and modular design across hardware projects supported by the FOSSi Foundation.</p>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding: 15px; vertical-align: top">
+    <img src="/assets/solderpad_logo.png" width="120px">
+  </td>
+  <td>
+    <p><b><a href="https://solderpad.org/licenses/">Solderpad License</a></b> is an open-source hardware license adapted from the Apache License 2.0.</p>
+    <p>It is specifically crafted to address patent and hardware distribution issues and is used widely in open hardware projects supported by the FOSSi Foundation.</p>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="padding: 15px; vertical-align: top">
     <img src="/assets/licensing_logo.png" width="120px">
   </td>
   <td>
